@@ -1,0 +1,89 @@
+==================================================== 
+PAINEL DE REDE - LOG AUTOMATICO 
+Data e Hora: 20/08/2026 - 15:58:13,56 
+==================================================== 
+ 
+[IPCONFIG] 
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : ADS-11
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : ifce.edu.br
+   Descriá∆o . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereáo F°sico . . . . . . . . . . . . . . : 9C-6B-00-52-C6-D1
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::e724:d16b:f131:495a%17(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 10.0.1.132(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.254.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quinta-feira, 20 de agosto de 2026 13:34:55
+   Concess∆o Expira. . . . . . . . . . . . . . : quinta-feira, 20 de agosto de 2026 17:31:16
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::7a9a:18ff:fe72:6651%17
+                                                 10.0.0.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 10.0.0.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 211577600
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-01-00-31-E0-1C-F1-9C-6B-00-52-C6-D1
+   Servidores DNS. . . . . . . . . . . . . . . : 8.8.8.8
+                                                 1.1.1.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Ethernet 2:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : 0A-00-27-00-00-05
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::4b21:86fa:b9ee:a339%5(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.56.1(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 654966823
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-01-00-31-E0-1C-F1-9C-6B-00-52-C6-D1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Intel(R) Wireless-AC 9260 160MHz
+   Endereáo F°sico . . . . . . . . . . . . . . : E4-60-17-D9-E9-B4
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 1:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : E4-60-17-D9-E9-B5
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereáo F°sico . . . . . . . . . . . . . . : E6-60-17-D9-E9-B4
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+ 
+[TESTE DE CONECTIVIDADE] 
+
+Disparando 8.8.8.8 com 32 bytes de dados:
+Esgotado o tempo limite do pedido.
+Esgotado o tempo limite do pedido.
+Esgotado o tempo limite do pedido.
+Esgotado o tempo limite do pedido.
+
+Estat°sticas do Ping para 8.8.8.8:
+    Pacotes: Enviados = 4, Recebidos = 0, Perdidos = 4 (100% de
+             perda),
